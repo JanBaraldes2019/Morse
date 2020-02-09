@@ -8,7 +8,7 @@
 //****** Includes *************************************************************
 
 //****** Variables ************************************************************
-const int pin = 8;   // pin for speaker
+const int pin = 8;   // pin per altaveu
 
 int note = 1047;
 int velocitat = 10;
